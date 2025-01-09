@@ -1,6 +1,7 @@
 # Slinky
 
-
+### Download
+Download the pre-built version from the [Releases](https://github.com/Fludder1/Flud-Slinky/releases)
 
 ### Modules
 <details>
@@ -14,27 +15,11 @@
 - Hit Select  
 - Hitboxes  
 - Lag Range  
-- Piercing  
 - Reach  
 - Sprint Reset  
 - Timer Range  
 - Velocity  
 - Weapons  
-
-</details>
-
-<details>
-<summary>Movement modules</summary>
-
-- Fast Accel  
-- Instant Stop  
-- Inv Walk  
-- Keep Sprint  
-- No Jump Delay  
-- No Slow  
-- Safe Walk  
-- Sprint  
-- Strafe  
 
 </details>
 
@@ -52,7 +37,10 @@
 - Fast Mine  
 - Fast Place  
 - Friends  
-- Item Use Fix  
+- Item Use Fix
+- Inv Walk
+- No Jump Delay
+- Sprint
 - No Hit Delay  
 - No Item Release  
 - No Use Delay  
@@ -82,3 +70,25 @@
 - Pointers  
 
 </details>
+
+### Building
+To build the injector using g++:
+
+```bash
+g++ injector.cpp -o injector
+```
+
+You can also use the visual studio version
+
+### Screenshots
+![image](https://github.com/user-attachments/assets/a7f08ce6-21d1-4cfe-8a80-bab0104ae5c9)
+![image](https://github.com/user-attachments/assets/bb0f36fe-2910-4cb9-b1fd-77c18bd4f00f)
+![image](https://github.com/user-attachments/assets/0a7983e2-5727-4034-a3d0-e6421ee0563a)
+![image](https://github.com/user-attachments/assets/0dc77757-3b52-4585-a150-11c50fa43ab1)
+
+
+
+
+
+### Disclaimer
+I, the owner, claim no ownership of this software and I am not responsible for what the consumer does with it, I am also not responsible for anything that happens to the consumer if they use this software, including bans from game servers. Retaliation regarding the liability and ownership of this software with result in further actions.
