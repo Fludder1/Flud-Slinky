@@ -1,9 +1,8 @@
 # Slinky
 
 
-## Modules
 
-### Combat
+### Modules
 <details>
 <summary>Combat modules</summary>
 
@@ -24,7 +23,6 @@
 
 </details>
 
-### Movement
 <details>
 <summary>Movement modules</summary>
 
@@ -40,7 +38,6 @@
 
 </details>
 
-### Utility
 <details>
 <summary>Utility modules</summary>
 
@@ -67,7 +64,6 @@
 
 </details>
 
-### Visuals
 <details>
 <summary>Visual (Render) modules</summary>
 
