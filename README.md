@@ -1,5 +1,5 @@
-# Slinky
-
+# Slinky Ghost Client
+As of testing, it works with Badlion, Forge, Fabric, Lunar, Labymod, and most likely any other launcher running 1.8.9.
 ### Download
 Download the pre-built version from the [Releases](https://github.com/Fludder1/Flud-Slinky/releases)
 
@@ -87,6 +87,10 @@ You can also use the visual studio version
 ![image](https://github.com/user-attachments/assets/0dc77757-3b52-4585-a150-11c50fa43ab1)
 
 
+### Troubleshooting
+A problem I had occur to me when I was making this was my anti-virus, which was Malwarebytes premium, was flagging the file for a PUP (Potentially Unwanted Program) game hack. Now if this is not obvious to you it is infact a game hack but I still thought to add this section incase you had any suspiscion regarding similar warnings, here is a screenshot. ![image](https://github.com/user-attachments/assets/d8ce330d-16e4-4e50-ba11-07d6d75bec90) Please do not be alarmed by this and accuse me of making malware, it is a game hack so it probably will be flagged as it does stuff like altering and buffering game memory to function.
+
+- If you have any other concerns regarding troubleshooting the client please make an issue, don't be hesitant, the sooner it works the better.
 
 
 
