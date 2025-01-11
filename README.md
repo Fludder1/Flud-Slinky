@@ -95,4 +95,4 @@ A problem I had occur to me when I was making this was my anti-virus, which was 
 
 
 ### Disclaimer
-I, the owner, claim no ownership of this software and I am not responsible for what the consumer does with it, I am also not responsible for anything that happens to the consumer if they use this software, including bans from game servers. Retaliation regarding the liability and ownership of this software with result in further actions.
+I, the owner of this repo, claim no ownership of this software and I am not responsible for what the consumer does with it, I am also not responsible for anything that happens to the consumer if they use this software, including bans from game servers.
